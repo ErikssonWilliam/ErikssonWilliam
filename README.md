@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ErikssonWilliam
-- 👀 I’m interested in Finance and Machine Learning :)
+- 👋 Hi, I’m William!
+- 👀 Searching for opportunities related to Finance and Machine Learning :)
+- 🎉 Passionate about ⚽ football, 🏋️‍♂️ gym workouts, and exploring the world 🌍.
 - 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/william-eriksson-01691a193/)
 
 <!---

@@ -15,11 +15,11 @@
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   <br>
-  <img src="./assets/dbt-logo.svg" alt="dbt" width="40" height="40"/>
+  <img src="./images/dbt.png" alt="dbt" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
-  <img src="./assets/dotnet-logo.svg" alt=".NET" width="40" height="40"/>
+  <img src="./images/C#.png" alt="C#" width="40" height="40"/>
 </div>
 <!---
 ErikssonWilliam/ErikssonWilliam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

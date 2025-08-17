@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
-  <img src="./images/C_sharp.png" alt="C_sharp" width="40" height="40"/>
+  <img src="./images/C_sharp_net.png" alt="C#_.NET" width="40" height="40"/>
 </div>
 <!---
 ErikssonWilliam/ErikssonWilliam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
